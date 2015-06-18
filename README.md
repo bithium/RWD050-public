@@ -36,7 +36,7 @@ May 18, 2015
 - Added otional ``<SerialNumber>``, ``<VendorURL>`` and ``<FirmwareVersion>`` elements to DeviceInfo
 - Added optional ``<Doc>`` element to Event
 - Changed the optionality of the ``<DataPoint>``'s ``type`` attribute to "required".
-- Added [UML diagram](SDT2.0/docs/SDT_Components.md)
+- Added [UML diagram](SDT2.0.1/docs/SDT_Components.md)
 - Changed the namespace for the XSD from "hgi.org" to "homegatewayinitiative.org".
 
 ### SDT 1.0
